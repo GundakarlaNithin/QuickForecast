@@ -8,7 +8,9 @@
 }
 
 .app{
-  background-color: #e2d4ff;
+  background-image: url('backgroundimg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   display: grid;
   min-height: 100vh;
 }
