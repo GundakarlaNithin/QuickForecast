@@ -24,6 +24,13 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 - **Bootstrap**: A popular front-end framework for building responsive and mobile-first websites quickly.
 - **Git**: A distributed version control system used to track changes in the code and collaborate with other developers.
 
+## Installation and Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/dynamic-weather-app.git
+
+
 
 ## Usage
 1. Open your browser and navigate to `http://localhost:5173`.
