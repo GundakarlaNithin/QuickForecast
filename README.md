@@ -1,3 +1,3 @@
 # QuickForecast
 
-# Dynamic Weather Prediction Application 🌤️
+## Dynamic Weather Prediction Application 🌤️
