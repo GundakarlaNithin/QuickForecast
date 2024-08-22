@@ -14,5 +14,5 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 **Responsive Design:** Optimized for all screen sizes, from mobile devices to desktops.
 
 **API Integration:** Utilizes reliable weather APIs to fetch accurate and current data.
-## Technologies Used
+### Technologies Used
 &middot; **React:** A powerful JavaScript library for building user interfaces.
