@@ -30,8 +30,6 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
    ```bash
    git clone https://github.com/GundakarlaNithin/QuickForecast/tree/main/weather-app
 
-
-
 ## Usage
 1. Open your browser and navigate to `http://localhost:5173`.
 2. Enter a city name in the search bar to receive real-time weather updates.
