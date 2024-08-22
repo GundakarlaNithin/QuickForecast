@@ -14,7 +14,6 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 - **API Integration**: Utilizes reliable weather APIs to fetch accurate and current data.
 
 
-
 ## Technologies Used
 
 - **React.Js**: A powerful JavaScript library for building user interfaces.
@@ -25,3 +24,8 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 - **Bootstrap**: A popular front-end framework for building responsive and mobile-first websites quickly.
 - **Git**: A distributed version control system used to track changes in the code and collaborate with other developers.
 
+
+## Usage
+1. Open your browser and navigate to `http://localhost:3000`.
+2. Enter a city name in the search bar to receive real-time weather updates.
+3. Explore the detailed weather metrics and forecasts presented in a user-friendly interface.
