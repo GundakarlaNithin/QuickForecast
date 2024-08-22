@@ -16,7 +16,7 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 
 ## Technologies Used
 
-- React.Js - Vite
+- React.Js; - Vite
 - **JavaScript**: The modern version of JavaScript with new syntax and features like arrow functions, promises, classes, and modules.
 - **HTML & CSS**: The latest standards for HTML and CSS, providing structure and style to the web application.
 - **OpenWeatherMap API**: A reliable weather API that provides real-time weather data for cities worldwide.
