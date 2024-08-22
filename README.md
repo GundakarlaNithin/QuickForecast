@@ -28,7 +28,7 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GundakarlaNithin/QuickForecast/tree/main/weather-app
+   git clone https://github.com/your-username/dynamic-weather-app.git
 
 
 
