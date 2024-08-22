@@ -46,3 +46,10 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 
 ## Screenshots
 ![Weather](https://github.com/user-attachments/assets/f7c5f066-2c33-4e6b-bc1f-c34a27b159a1)
+
+## Acknowledgements
+
+- [OpenWeatherMap API](https://openweathermap.org/api) for providing the weather data.
+- [React](https://reactjs.org/) for the powerful UI framework.
+- [Vite](https://vitejs.dev/) for the fast development environment.
+
