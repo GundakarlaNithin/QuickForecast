@@ -30,6 +30,8 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
    ```bash
    git clone https://github.com/GundakarlaNithin/QuickForecast/tree/main/weather-app
 2. **Navigate to the project directory**:
+cd dynamic-weather-app
+
 
 ## Usage
 1. Open your browser and navigate to `http://localhost:5173`.
