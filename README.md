@@ -12,5 +12,15 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 **Responsive Design:** Optimized for all screen sizes, from mobile devices to desktops.  
 **API Integration:** Utilizes reliable weather APIs to fetch accurate and current data.  
 
-### Technologies Used
-&middot; **React:** A powerful JavaScript library for building user interfaces.
+
+## Technologies Used
+
+- **React.Js**: A powerful JavaScript library for building user interfaces, particularly for single-page applications.
+- **Vite**: A fast build tool and development environment that optimizes performance and speeds up the development process.
+- **JavaScript (ES6+)**: The modern version of JavaScript with new syntax and features like arrow functions, promises, classes, and modules.
+- **HTML5 & CSS3**: The latest standards for HTML and CSS, providing structure and style to the web application.
+- **OpenWeatherMap API**: A reliable weather API that provides real-time weather data for cities worldwide.
+- **Axios**: A promise-based HTTP client for making requests to APIs and handling responses efficiently.
+- **Bootstrap**: A popular front-end framework for building responsive and mobile-first websites quickly.
+- **Git**: A distributed version control system used to track changes in the code and collaborate with other developers.
+
