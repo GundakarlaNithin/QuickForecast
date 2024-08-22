@@ -45,3 +45,4 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 3. Explore the detailed weather metrics and forecasts presented in a user-friendly interface.
 
 ## Screenshots
+![Weather](https://github.com/user-attachments/assets/f7c5f066-2c33-4e6b-bc1f-c34a27b159a1)
