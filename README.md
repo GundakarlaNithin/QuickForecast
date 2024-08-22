@@ -6,7 +6,7 @@ Welcome to the Dynamic Weather Prediction Application! This project is a real-ti
 
 #### Key Features
 **Real-Time Weather Updates:** Enter a city name and instantly receive the latest weather information.
-Detailed Weather Metrics: Access key weather data including temperature, humidity, wind speed, and more.
-Forecast Information: Get insights into upcoming weather conditions.
-Responsive Design: Optimized for all screen sizes, from mobile devices to desktops.
-API Integration: Utilizes reliable weather APIs to fetch accurate and current data.
+**Detailed Weather Metrics:** Access key weather data including temperature, humidity, wind speed, and more.
+**Forecast Information:** Get insights into upcoming weather conditions.
+**Responsive Design:** Optimized for all screen sizes, from mobile devices to desktops.
+**API Integration:** Utilizes reliable weather APIs to fetch accurate and current data.
